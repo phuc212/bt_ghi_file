@@ -1,0 +1,29 @@
+5 12 15 9 11  
+14 8 12 11 16  
+13 7 6 12 13  
+18 18 7 5 19  
+13 17 9 13 12  
+tong so chan: 128
+
+tong duong bien: 250
+
+mang sau khi nhan 3: 
+15 36 45 27 33  
+42 24 36 33 48  
+39 21 18 36 39  
+54 54 21 15 57  
+39 51 27 39 36  
+so lan xuat hien so 5 : 2 lan
+so lan xuat hien so 12 : 4 lan
+so lan xuat hien so 15 : 1 lan
+so lan xuat hien so 9 : 2 lan
+so lan xuat hien so 11 : 2 lan
+so lan xuat hien so 14 : 1 lan
+so lan xuat hien so 8 : 1 lan
+so lan xuat hien so 16 : 1 lan
+so lan xuat hien so 13 : 4 lan
+so lan xuat hien so 7 : 2 lan
+so lan xuat hien so 6 : 1 lan
+so lan xuat hien so 18 : 2 lan
+so lan xuat hien so 19 : 1 lan
+so lan xuat hien so 17 : 1 lan

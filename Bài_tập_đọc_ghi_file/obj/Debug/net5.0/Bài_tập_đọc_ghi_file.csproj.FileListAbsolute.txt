@@ -1,0 +1,16 @@
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.exe
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.deps.json
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.runtimeconfig.json
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.runtimeconfig.dev.json
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.dll
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\ref\Bài_tập_đọc_ghi_file.dll
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\bin\Debug\net5.0\Bài_tập_đọc_ghi_file.pdb
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.csprojAssemblyReference.cache
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.GeneratedMSBuildEditorConfig.editorconfig
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.AssemblyInfoInputs.cache
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.AssemblyInfo.cs
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.csproj.CoreCompileInputs.cache
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.dll
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\ref\Bài_tập_đọc_ghi_file.dll
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.pdb
+D:\module2\week3\test_file\Bài_tập_đọc_ghi_file\obj\Debug\net5.0\Bài_tập_đọc_ghi_file.genruntimeconfig.cache

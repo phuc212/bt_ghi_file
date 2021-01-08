@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bài_tập_đọc_ghi_file/1.0.0": {
+        "runtime": {
+          "Bài_tập_đọc_ghi_file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bài_tập_đọc_ghi_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
